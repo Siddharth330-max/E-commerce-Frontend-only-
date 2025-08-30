@@ -5,27 +5,27 @@ It features a product grid with search, category, and price filters, along with 
 
 🚀 Features
 
-📦 Dynamic Product Grid – Fetches products from Fake Store API
+   📦 Dynamic Product Grid – Fetches products from Fake Store API
 
-🔎 Filters – Search bar, category dropdown, and price range slider
+   🔎 Filters – Search bar, category dropdown, and price range slider
 
-🛒 Shopping Cart – Add/remove items, view total price, cart modal popup
+   🛒 Shopping Cart – Add/remove items, view total price, cart modal popup
 
-📱 Responsive Design – Optimized for mobile, tablet, and desktop
+   📱 Responsive Design – Optimized for mobile, tablet, and desktop
 
-⚡ State Management – Handled with React Context API
+   ⚡ State Management – Handled with React Context API
 
-🎨 Modern UI – Built with Tailwind CSS 
+   🎨 Modern UI – Built with Tailwind CSS 
 
 🛠️ Tech Stack
 
-Frontend: React, Vite
+   Frontend: React, Vite
 
-State Management: React Context API
+   State Management: React Context API
 
-Styling: Tailwind CSS
+   Styling: Tailwind CSS
 
-API: Fake Store API
+   API: Fake Store API
 
 📂 Project Structure
 
@@ -35,15 +35,15 @@ E-commerce-Frontend-only/
 
 |-src 
 
-   |-assets 
+       |-assets 
 
-   |-App.css     
+       |-App.css     
 
-   |-App.jsx     #main jsx file/Main app with all components 
+       |-App.jsx     #main jsx file/Main app with all components 
 
-   |-index.css   #main css file 
+       |-index.css   #main css file 
 
-   |-main.js
+       |-main.js
 
 |-eslist-config.js
 
@@ -71,4 +71,4 @@ Deploy in one click 🚀
 
 # Author  
 
-Siddharth Mishra - linkedin.com/in/siddharth-mishra-4814a8316/ | https://github.com/Siddharth330-max
+Siddharth Mishra - [linkedin.com/in/siddharth-mishra-4814a8316/](url) | https://github.com/Siddharth330-max
