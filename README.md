@@ -1,12 +1,74 @@
-# React + Vite
+## E-Commerce Product Page (Frontend - only) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive E-commerce web app built with React, Context API, Tailwind CSS, and Fake Store API.
+It features a product grid with search, category, and price filters, along with a shopping cart modal for managing items.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📦 Dynamic Product Grid – Fetches products from Fake Store API
 
-## Expanding the ESLint configuration
+🔎 Filters – Search bar, category dropdown, and price range slider
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛒 Shopping Cart – Add/remove items, view total price, cart modal popup
+
+📱 Responsive Design – Optimized for mobile, tablet, and desktop
+
+⚡ State Management – Handled with React Context API
+
+🎨 Modern UI – Built with Tailwind CSS 
+
+🛠️ Tech Stack
+
+Frontend: React, Vite
+
+State Management: React Context API
+
+Styling: Tailwind CSS
+
+API: Fake Store API
+
+📂 Project Structure
+
+E-commerce-Frontend-only/
+
+|-public/vite
+
+|-src 
+
+   |-assets 
+
+   |-App.css     
+
+   |-App.jsx     #main jsx file/Main app with all components 
+
+   |-index.css   #main css file 
+
+   |-main.js
+
+|-eslist-config.js
+
+|-index
+
+|-package
+
+|-package-lock 
+
+|-README.md 
+
+|-vite.config.js 
+
+🌐 Deployment
+
+Easily deploy on Vercel
+ or Netlify
+:
+
+Push your project to GitHub
+
+Connect your repo to Vercel/Netlify
+
+Deploy in one click 🚀
+
+# Author  
+
+Siddharth Mishra - linkedin.com/in/siddharth-mishra-4814a8316/ | https://github.com/Siddharth330-max
